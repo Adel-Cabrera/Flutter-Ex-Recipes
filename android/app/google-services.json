@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054070829812",
+    "firebase_url": "https://recipes-app-28aea.firebaseio.com",
+    "project_id": "recipes-app-28aea",
+    "storage_bucket": "recipes-app-28aea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054070829812:android:344a7f208767bed3c8a4a1",
+        "android_client_info": {
+          "package_name": "com.mundodiferente.recipeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054070829812-5hkm85pi09keedp5r9f1qsmvrtqsgkqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mundodiferente.recipeapp",
+            "certificate_hash": "b22c5e33b7db6381c6490d9698db271b3307b3d5"
+          }
+        },
+        {
+          "client_id": "1054070829812-qftuc497akq2h0u30blcbnpj75vmvhr7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLYABHF4j5u5jTDbtB4M9nbmfk3LlsKOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1054070829812-qftuc497akq2h0u30blcbnpj75vmvhr7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
